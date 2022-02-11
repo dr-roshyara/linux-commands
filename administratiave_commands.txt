@@ -17,3 +17,11 @@ Links:
 		○ sudo passwd username 
 		
 		○ You open the Terminal application by pressing CTRL+ALT +T to open the Terminal in Ubuntu 
+#Add user 
+    -Link 
+    -Commands 
+        o sudo adduser roshyara 
+    -Add user to a particular group for example sudo group 
+        o sudo usermod -aG sudo roshyara
+        o sudo usermod -aG sudo username
+        
