@@ -1,0 +1,11 @@
+#Find the ip address of ip address 
+Links: 
+    #1 
+    https://opensource.com/article/18/5/how-find-ip-address-linux
+
+#Commands to find the ip 
+    curl ipconfig.me 
+    ip addr (ip a)
+    hostnamem -I 
+    curl ipinfo.io/ip
+    
