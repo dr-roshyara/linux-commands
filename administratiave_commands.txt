@@ -8,4 +8,12 @@ Links:
     ip addr (ip a)
     hostnamem -I 
     curl ipinfo.io/ip
-    
+#Change password Linux console 
+	- Link 
+		○ https://www.cyberciti.biz/faq/change-a-user-password-in-ubuntu-linux-using-passwd/
+		○ sudo passwd root 
+			§ old password
+			§ new password 
+		○ sudo passwd username 
+		
+		○ You open the Terminal application by pressing CTRL+ALT +T to open the Terminal in Ubuntu 
