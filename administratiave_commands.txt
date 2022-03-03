@@ -25,3 +25,9 @@ Links:
         o sudo usermod -aG sudo roshyara
         o sudo usermod -aG sudo username
         
+#Update Server  
+    - sudo apt update 
+    - sudo apt upgrade -y 
+    -You can also comine it together 
+      sudo pat update & sudo apt upgrade -y 
+      
