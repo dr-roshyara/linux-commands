@@ -1,0 +1,10 @@
+	•  Link 
+		○ https://linuxconfig.org/firewall-ufw-status-inactive-on-ubuntu-20-04-focal-fossa-linux
+		○ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04
+		○ https://www.cyberciti.biz/faq/how-to-setup-a-ufw-firewall-on-ubuntu-18-04-lts-server/
+	• if the firewall is inactive, you can check its status by 
+	sudo ufw status 
+	- Check the status 
+		○ sudo ufw status 
+	- Enable firewall 
+		○ sudo ufw enable 
