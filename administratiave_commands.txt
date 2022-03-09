@@ -30,4 +30,12 @@ Links:
     - sudo apt upgrade -y 
     -You can also comine it together 
       sudo pat update & sudo apt upgrade -y 
+
+#### History 
+    - To get the list of commands that are used before, one can use history command 
+     $history 
+      clear 
+      ls 
+      ls -l 
+
       
