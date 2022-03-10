@@ -1,0 +1,9 @@
+#How Do I Check if Crontab is Working?
+	##method1 : Check the status of the Cron service
+	systemctl status cron
+	 You can start the cron job by following command 
+	sudo service cron start
+	##method 2:  Check the syslog file 
+	#This examples shows how to check if php artisan command is running every minutes 
+	sudo grep " php artisan schedule:run" /var/log/syslog
+	
